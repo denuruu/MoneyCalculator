@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.opencode/
+data/
+*.corrupt-*.json
+Thumbs.db
+.DS_Store
